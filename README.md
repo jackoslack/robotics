@@ -1,2 +1,2 @@
 # robotics
-Collection of python/micropython scripts for small robotic projects
+Collection of python/micropython files for small robotic projects
